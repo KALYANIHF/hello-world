@@ -7,3 +7,6 @@ h1 {
   color: burlywood;
   margin: 0px 0px 0px 12px;
 }
+body {
+  padding: 2rem;
+}
